@@ -43,7 +43,6 @@
   transition: opacity 2s ease, margin-top 2s cubic-bezier(0.46, 0.22, 0.09, 0.99);
 }
 
-
 body{
   background-color: #F0EACC;
 }
@@ -118,7 +117,6 @@ body{
   transform: translateY(3vw);
   opacity: 0;
   transition: opacity 2s ease, transform 2s ease;
-  transform: translateY(0);
 }
 
 .background_1{
@@ -358,9 +356,9 @@ body{
       margin-top: 36vw;
     }
 
-    .background_5{
+    /* .background_5{
       margin-top: -550px;
-    }
+    } */
 
     .second__page__stars img {
     width: 10.7vw;
